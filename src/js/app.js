@@ -1,5 +1,5 @@
 import Load from "./load/load";
-import SortWidget from "./sortWidget/sortwidget";
+import SortWidget from "./sortwidget/sortwidget";
 
 const load = new Load();
 
